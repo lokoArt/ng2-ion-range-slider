@@ -38,6 +38,6 @@
   },
   "dependencies": {
     "@types/jquery": "^2.0.40",
-    "ion-rangeslider": "lokoArt/ion.rangeSlider#master"
+    "ion-rangeslider": "github:lokoArt/ion.rangeSlider#master"
   }
 }
